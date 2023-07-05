@@ -11,3 +11,5 @@ git remote add origin "url"
 git remote remove origin
 
 git push -u origin main 
+
+git push 
